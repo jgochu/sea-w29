@@ -79,3 +79,12 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+what contributed most to your learning in today's workshop?
+listening and following along the lecture. trying things out in terminal.
+
+what was the least helpful to your learning?
+spending time setting up laptops in the beginning.
+
+would you recommend this workshop to a friend (0-10)
+5, think people who have taken a codefellows class before like foundations 1, things like git was covered.
